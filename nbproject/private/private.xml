@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/main/FirstAidCompanionApp.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/models/User.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/models/Hospital.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/models/FirstAidGuide.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/models/EmergencyService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/services/DatabaseService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/services/FirstAidService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/services/LocationService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/services/UserService.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/MainFrame.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/Theme.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/LoginScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/HomeScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/SymptomMenuScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/SymptomScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/EmergencyScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/HospitalScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/UserMedicalRecordScreen.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/FirstAidCompanionApp/src/firstaidcompanionapp/ui/screens/FamilyContactsScreen.java</file>
+        </group>
+    </open-files>
+</project-private>
